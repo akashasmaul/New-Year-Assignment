@@ -6,7 +6,7 @@
 }
 
 #New-year {
-    background: linear-gradient( rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url(/resources/Banner\ Image.png);
+    background: linear-gradient( rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url(./resources/Banner\ Image.png);
     margin-top: 50px;
     border-radius: 10px;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@
 /* <!-- Midnight Party Section --> */
 
 #second-section{
-    background: linear-gradient(to right ,rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url(../resources/Vectorrr.png);
+    background: linear-gradient(to right ,rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url(./resources/Vectorrr.png);
     margin-top: 150px;
     border-radius: 10px; 
     background-position: center;
