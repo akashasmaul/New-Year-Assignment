@@ -337,7 +337,69 @@
   margin-top: 30px;
   margin-bottom: 1;
   cursor: pointer;
+}
 
+
+#news-letter{
+  margin: 50px;
+  text-align: center;
+  background: #FF00000D;
+  width: 1240px;
+  height: 500px;
+
+}
+
+.news-letter-content{
+  padding: 50px 100px;
+}
+
+#news-letter h1{
+  color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+#news-letter p{
+  color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.input-field{
+  margin-top: 20px;
+  width: 80%;
+  position: relative;
+}
+.input-field input{
+  padding: 12px 20px;
+  width: 70%;
+  outline: none;
+  border: none;
+  border-radius:50px;
+}
+
+.input-field button{
+  padding: 12px 20px;
+  border-radius: 0 50px 50px 0;
+  border: none;
+  outline: none;
+  position: absolute;
+  top: 0;
+  right: 10;
+  left: 50;
+  background: #FF0000;
+  color: white;
+  cursor: pointer;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
