@@ -1,0 +1,125 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+#New-year {
+    background: linear-gradient( rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url(/resources/Banner\ Image.png);
+    margin-top: 50px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+ }
+
+ .New-year-text{
+    width: 100%; 
+    text-align: center;
+    padding: 190px 0;
+    
+ }
+
+ .New-year-text h6{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+
+ .New-year-text h1{
+    color: white;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+  }
+
+  /* <!-- 65% Deals section --> */
+
+.deals-section{
+   text-align: center;
+  }
+  .deals-text{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .deals-text h1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+  .deals-text p{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  .deals-text h3{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+/* <!-- Midnight Party Section --> */
+
+#second-section{
+    background: linear-gradient(to right ,rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url(../resources/Vectorrr.png);
+    margin-top: 150px;
+    border-radius: 10px; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .second-inside-part{
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: space-between;
+
+
+  }
+
+  .second-section-text{
+   text-align: center left;
+   }
+  
+  .second-section-text h1{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+  }
+  .second-section-text p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+margin: 30px 0;
+  }
+
+  .second-section-text a{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+text-decoration: none;
+margin-left: 65px;
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
